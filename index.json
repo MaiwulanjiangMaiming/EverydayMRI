@@ -9,9 +9,9 @@
       "title": "MRI Physics & Signal Fundamentals",
       "goal": "Build a complete physical intuition from spin to image",
       "papers": [
-        {"id": "P0-01", "title": "Nuclear Induction", "authors": "Bloch F.", "year": 1946, "venue": "Phys Rev", "topic": "Bloch equation", "note": "notes/P0/P0-01-bloch-1946.md", "status": "done"},
-        {"id": "P0-02", "title": "Image Formation by Induced Local Interactions; Examples Employing Magnetic Resonance", "authors": "Lauterbur P.C.", "year": 1973, "venue": "Nature", "topic": "MRI foundation", "note": "notes/P0/P0-02-lauterbur-1973.md", "status": "done"},
-        {"id": "P0-03", "title": "NMR Fourier Zeugmatography", "authors": "Kumar A., Welti D., Ernst R.R.", "year": 1975, "venue": "J Magn Reson", "topic": "Fourier imaging / K-space", "note": "notes/P0/P0-03-kumar-ernst-1975.md", "status": "done"},
+        {"id": "P0-01", "title": "Nuclear Induction", "authors": "Bloch F.", "year": 1946, "venue": "Phys Rev", "topic": "Bloch equation", "note": null, "status": "planned"},
+        {"id": "P0-02", "title": "Image Formation by Induced Local Interactions; Examples Employing Magnetic Resonance", "authors": "Lauterbur P.C.", "year": 1973, "venue": "Nature", "topic": "MRI foundation", "note": null, "status": "planned"},
+        {"id": "P0-03", "title": "NMR Fourier Zeugmatography", "authors": "Kumar A., Welti D., Ernst R.R.", "year": 1975, "venue": "J Magn Reson", "topic": "Fourier imaging / K-space", "note": null, "status": "planned"},
         {"id": "P0-04", "title": "The k-trajectory formulation of the NMR imaging process", "authors": "Twieg D.B.", "year": 1983, "venue": "Med Phys", "topic": "K-trajectory", "note": null, "status": "planned"},
         {"id": "P0-05", "title": "Multi-planar image formation using NMR spin echoes", "authors": "Mansfield P.", "year": 1977, "venue": "J Phys C", "topic": "EPI", "note": null, "status": "planned"},
         {"id": "P0-06", "title": "Application of Fourier Transform Spectroscopy to Magnetic Resonance", "authors": "Ernst R.R., Anderson W.A.", "year": 1966, "venue": "Rev Sci Instrum", "topic": "Pulse + Fourier", "note": null, "status": "planned"},
